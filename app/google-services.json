@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "829674193219",
+    "project_id": "brightlyseoul-8102b",
+    "storage_bucket": "brightlyseoul-8102b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829674193219:android:c7309e1586e0bf3eccaff6",
+        "android_client_info": {
+          "package_name": "com.example.brightly_seoul"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7IFIY9GPe4DqvHyaK52R_KOL8TVtU7o0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
